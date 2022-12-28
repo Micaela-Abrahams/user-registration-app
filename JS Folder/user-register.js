@@ -15,7 +15,6 @@
 
 /* --- Nav references --- */
 
-    // code here...
 
 
 /* --- Form field references --- */
